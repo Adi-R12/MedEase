@@ -1,0 +1,55 @@
+@import url(app.css);
+
+.page-heading{
+  color: black;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border-radius: 10px;
+  border-style: groove;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 0 10px 0 rgb(188, 188, 188);
+  border-color: black;
+  border-width: 2px;
+}
+
+.card-img {
+  margin: 0 auto;
+}
+
+.card-img img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.card-name {
+  margin: 0 auto;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.appointment-btn {
+  border-color: black;
+  border-width: 2px;
+  outline: black;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  border-style:double;
+  font-size: 0.8rem;
+  padding: 1rem;
+  margin: 1rem auto;
+}
+
+.appointment-btn:hover{
+  background-color: #a749ff;
+  border-color: white;
+}
+
+.card p {
+  color: black;
+  width: 100%;
+}
