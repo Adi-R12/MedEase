@@ -4,7 +4,9 @@
   "description": "Doctor appointment website",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "cd client && npm run build && npm run server:prod",
+    "server:prod": "node server.js",
+    "server:dev": "nodemon server.js"
   },
   "author": "Aditya",
   "license": "ISC",
