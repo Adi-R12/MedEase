@@ -6,7 +6,8 @@
   "scripts": {
     "start": "cd client && npm run build && cd.. && npm run server:prod",
     "server:prod": "node server.js",
-    "server:dev": "nodemon server.js"
+    "server:dev": "nodemon server.js",
+    "ins": " npm install && cd client && npm install"
   },
   "author": "Aditya",
   "license": "ISC",
