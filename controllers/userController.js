@@ -52,15 +52,17 @@ const login = async (req, res) => {
 
 const register = async (req, res) => {
   try {
-    // console.log(req.body.email);
+    console.log(req.body.email);
     const emailPresent = await User.findOne({ email: req.body.email });
-    if (emailPresent) {
-      return res.status(400).send("Email already exists");
-    }
+    console.log(emailPresent);
+    // if (emailPresent) {
+    //   return res.status(400).send("Email already exists");
+    // }
     console.log('abc');
     const hashedPass = await bcrypt.hash(req.body.password, 10);
     const user = await User({ ...req.body, password: hashedPass });
     const result = await user.save();
+    console.log(result);
     if (!result) {
       return res.status(500).send("Unable to register user");
     }

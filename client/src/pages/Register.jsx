@@ -4,8 +4,8 @@ import "../styles/register.css";
 import axios from "axios";
 import toast from "react-hot-toast";
 
-// console.log(process.env.REACT_APP_SERVER_DOMAIN);
 axios.defaults.baseURL = process.env.REACT_APP_SERVER_DOMAIN;
+console.log(process.env.REACT_APP_SERVER_DOMAIN);
 
 function Register() {
   const [file, setFile] = useState("");
@@ -26,26 +26,6 @@ function Register() {
       [name]: value,
     });
   };
-
-  // const onUpload = async (element) => {
-  //   setLoading(true);
-  //   if (element.type === "image/jpeg" || element.type === "image/png") {
-  //     const data = new FormData();
-  //     data.append("file", element);
-  //     data.append("upload_preset", process.env.REACT_APP_CLOUDINARY_PRESET);
-  //     data.append("cloud_name", process.env.REACT_APP_CLOUDINARY_CLOUD_NAME);
-  //     fetch(process.env.REACT_APP_CLOUDINARY_BASE_URL, {
-  //       method: "POST",
-  //       body: data,
-  //     })
-  //       .then((res) => res.json())
-  //       .then((data) => setFile(data.url.toString()));
-  //     setLoading(false);
-  //   } else {
-  //     setLoading(false);
-  //     toast.error("Please select an image in jpeg or png format");
-  //   }
-  // };
 
   const formSubmit = async (e) => {
     try {

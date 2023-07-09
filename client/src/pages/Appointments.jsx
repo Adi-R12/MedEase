@@ -26,7 +26,6 @@ const Appointments = () => {
       const temp = await fetchData(
         `/appointment/getallappointments?search=${userId}`
       );
-      console.log(temp);
       setAppointments(temp);
       dispatch(setLoading(false));
     } catch (error) {}

@@ -10,7 +10,7 @@ const auth = (req, res, next) => {
     req.locals = verifyToken.userId;
     next();
   } catch (error) {
-    console.log(error);
+    // console.log(error);
     return error;
   }
 };
