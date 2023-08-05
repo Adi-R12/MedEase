@@ -1,3 +1,9 @@
+![Screenshot (191)](https://github.com/Adi-R12/MedEase/assets/97426655/c983991e-a956-458f-9ab1-1f4a35dc2c6e)
+![Uploading Screenshot (190).png…]()
+![Uploading Screenshot (189).png…]()
+![Uploading Screenshot (188).png…]()
+![Uploading Screenshot (187).png…]()
+![Uploading Screenshot (186).png…]()
 # Medease
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
@@ -7,7 +13,9 @@ This is a webapp where you can book an appointment with a doctor.
 
 ### 📃Features :
 
-<ul>
+<ul>![Uploading Screenshot (185).png…]()
+![Uploading Screenshot (184).png…]()
+
 <li>User can register and login.</li>
 <li>You can view all available doctors on the site.</li>
 <li>You can also update your profile.</li>
