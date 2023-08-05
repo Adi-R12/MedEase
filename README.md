@@ -1,9 +1,12 @@
-![Screenshot (191)](https://github.com/Adi-R12/MedEase/assets/97426655/c983991e-a956-458f-9ab1-1f4a35dc2c6e)
-![Uploading Screenshot (190).png…]()
-![Uploading Screenshot (189).png…]()
-![Uploading Screenshot (188).png…]()
-![Uploading Screenshot (187).png…]()
-![Uploading Screenshot (186).png…]()
+![Screenshot (185)](https://github.com/Adi-R12/MedEase/assets/97426655/c6ab8f7f-5479-4f94-b853-88acb7cbb6b9)
+![Screenshot (184)](https://github.com/Adi-R12/MedEase/assets/97426655/c06481c7-a7fa-4db3-8664-206426daed85)
+![Screenshot (191)](https://github.com/Adi-R12/MedEase/assets/97426655/81955cc6-be5b-4632-b34f-feef82e03d6c)
+![Screenshot (190)](https://github.com/Adi-R12/MedEase/assets/97426655/3cc0fdb2-ee9f-43ce-9faf-bce15665c6f7)
+![Screenshot (189)](https://github.com/Adi-R12/MedEase/assets/97426655/f94bd521-9021-4bd0-8eb7-f149ccadc172)
+![Screenshot (188)](https://github.com/Adi-R12/MedEase/assets/97426655/b81ecc7c-0d70-4d69-912b-631424647333)
+![Screenshot (187)](https://github.com/Adi-R12/MedEase/assets/97426655/1c05ecbe-4d0d-4dcb-bd04-1a78e61e6a43)
+![Screenshot (186)](https://github.com/Adi-R12/MedEase/assets/97426655/f457ad55-8a09-4828-b3ad-e9386aed2391)
+
 # Medease
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
