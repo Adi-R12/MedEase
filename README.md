@@ -70,8 +70,3 @@ This is a webapp where you can book an appointment with a doctor.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <br/>
-
-### Connect with me :
-
-<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Avinash905 | LinkedIn" height="35" width="35" /></a>
-<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinashdunna" height="30" width="40" /></a>
